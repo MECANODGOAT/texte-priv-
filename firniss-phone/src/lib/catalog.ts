@@ -1,6 +1,6 @@
 // Types partagés et catalogue de départ.
 // Le catalogue de départ sert tant que Supabase n'est pas configuré,
-// et c'est lui qui a servi à générer supabase/seed.sql.
+// et c'est lui qui a servi à générer les données de départ de supabase/setup.sql.
 
 export type Camera = "duo" | "diag" | "trio" | "plateau";
 export type Condition = "neuf" | "recond";
