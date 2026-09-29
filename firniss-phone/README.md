@@ -24,7 +24,7 @@ Sans Supabase configuré, le site s'affiche avec le catalogue d'exemple, mais le
 2. Créez votre compte admin : **Authentication > Users > Add user** (e-mail + mot de passe, cochez « Auto Confirm User »).
 3. Ouvrez `supabase/setup.sql`, remplacez `VOTRE_EMAIL@exemple.com` (tout en bas) par l'e-mail du compte admin.
 4. Collez tout le fichier dans **SQL Editor** et cliquez sur **Run**. Le fichier peut être relancé sans risque.
-5. Dans **Project Settings > API**, copiez l'URL, la clé `anon` et la clé `service_role` dans `.env.local` (ou dans Vercel).
+5. Dans **Project Settings > API Keys**, copiez la *Publishable key* et la *Secret key* ; l'URL est dans le bouton **Connect**. Mettez-les dans `.env.local` (ou dans Vercel) sous les noms `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY` et `SUPABASE_SECRET_KEY`.
 6. Connectez-vous sur `/admin`, puis, dans **Moyens de paiement**, remplacez les textes entre crochets par vos vrais numéros et RIB.
 
 ## Mettre le site en ligne
