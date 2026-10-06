@@ -4,9 +4,10 @@ import Hero from "@/components/Hero";
 import Lookbook from "@/components/Lookbook";
 import Newsletter from "@/components/Newsletter";
 import ProductGrid from "@/components/ProductGrid";
+import Reels from "@/components/Reels";
 import Reveal from "@/components/Reveal";
 import Ticker from "@/components/Ticker";
-import { collections, products, sorted } from "@/lib/catalog";
+import { collections, products, reels, sorted } from "@/lib/catalog";
 
 export default function Home() {
   const list = sorted(products);
@@ -32,6 +33,7 @@ export default function Home() {
       </section>
       <Drops collections={collections} />
       <Lookbook items={recent.length ? recent : list} />
+      <Reels items={reels} names={Object.fromEntries(collections.map((c) => [c.slug, c.name]))} />
       <Bento />
       <Newsletter />
     </>

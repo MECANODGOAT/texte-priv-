@@ -1,4 +1,5 @@
 import data from "@/data/catalog.json";
+import videoData from "@/data/videos.json";
 
 export type Kind = "tee" | "tank" | "longsleeve" | "hoodie" | "pant";
 
@@ -49,4 +50,24 @@ export const sorted = (list: Product[]) =>
 
 export function related(p: Product, n = 4) {
   return sorted(products.filter((x) => x.id !== p.id && x.collection === p.collection)).slice(0, n);
+}
+
+// ---------- Vidéos (converties en MP4 dans public/videos) ----------
+
+export type Reel = { id: number; title: string; collection: string; product?: string; src: string; poster: string };
+
+const asset = (id: number) => ({ src: `/videos/${id}.mp4`, poster: `/videos/${id}.jpg` });
+
+export const reels: Reel[] = videoData.reels.map((r) => ({
+  id: r.id, title: r.title, collection: r.collection, product: "product" in r ? r.product : undefined, ...asset(r.id),
+}));
+
+export const reelsFor = (collection: string) => reels.filter((r) => r.collection === collection);
+
+/** Vidéo d'un produit : animation dédiée, sinon reel où il apparaît. */
+export function videoFor(p: Product): { src: string; poster: string; vertical: boolean } | null {
+  const own = videoData.products.find((v) => v.product === p.id);
+  if (own) return { ...asset(own.id), vertical: false };
+  const reel = reels.find((r) => r.product === p.slug);
+  return reel ? { src: reel.src, poster: reel.poster, vertical: true } : null;
 }

@@ -19,6 +19,13 @@ maquette lit son catalogue public et renvoie vers ses fiches produits pour final
     une photo latérale, défilement automatique en pause hors écran ou au survol.
   - *Page Transition* (@su2491251), effet « double-stairs » — rideau en colonnes noires et
     rouge avec le logo entre chaque page, déclenché automatiquement sur tous les liens internes.
+- **Vidéos du site exploitées** (11 sur 15 ; les teasers quiz/mystery box ne correspondent à
+  aucun produit en ligne) :
+  - section **Reels** façon stories sur l'accueil : lecture muette quand le reel est à l'écran,
+    bouton son (un seul reel sonore à la fois), agrandissement en plein écran ;
+  - onglets **360° / Vidéo** sur les fiches qui ont une animation produit ou un reel ;
+  - le reel de la collection en tête de chaque page collection, et en aperçu au survol des
+    cartes « Les drops ».
 - **Corrections relevées sur le site actuel** : promesse de livraison cohérente partout (gratuite dès
   500 DH, 24h Casablanca, 48–72h ailleurs), plus de mélange français/anglais, pas de pop-up
   WhatsApp à l'arrivée, un seul vrai titre H1, textes alternatifs sur les images, description
@@ -45,6 +52,21 @@ d'après leur fond gris de studio, détoure les packshots (`scripts/cutout.mjs`)
 `public/cutouts/` et écrit `src/data/catalog.json`. Deux tableaux en tête du script permettent de
 corriger le tri à la main : `BACK_OVERRIDES` (ensembles sans vraie vue de dos) et
 `SWAP_FRONT_BACK` (photo principale qui est en fait le dos).
+
+## Mettre à jour les vidéos
+
+```bash
+npm run sync:videos            # ajoute --force pour tout reconvertir
+```
+
+`src/data/videos.json` associe chaque vidéo de la médiathèque WordPress à une collection ou à un
+produit. Le script `scripts/sync-videos.mjs` (nécessite ffmpeg) les télécharge et les convertit
+en MP4 H.264 léger avec image d'aperçu dans `public/videos/` (92 Mo d'origine → 14 Mo).
+
+**À signaler au propriétaire :** les vidéos `.mov` du site actuel sont encodées en HEVC (H.265),
+un format que Chrome sous Windows et la plupart des téléphones Android ne lisent pas. C'est la
+cause de la grande zone noire vide sur la page d'accueil actuelle. Les exporter en MP4 H.264
+règle le problème, même sans refonte.
 
 ## Pour un vrai 360° (étape suivante)
 

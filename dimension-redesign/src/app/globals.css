@@ -145,7 +145,7 @@ body::after {
 .v360-badge--muted { background: var(--surface); color: var(--muted); }
 .v360-seg { display: inline-flex; padding: 4px; border-radius: 999px; background: var(--surface); border: 1px solid var(--stroke); }
 .v360-seg button { min-height: 36px; padding: 0 16px; border-radius: 999px; font-size: 13px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); transition: background-color .25s, color .25s; }
-.v360-seg button[aria-pressed="true"] { background: var(--text); color: var(--ink); }
+.v360-seg button[aria-pressed="true"], .v360-seg button[aria-selected="true"] { background: var(--text); color: var(--ink); }
 .v360-deg { font-variant-numeric: tabular-nums; color: var(--muted); font-size: 13px; min-width: 4ch; }
 .v360-play { margin-left: auto; width: 44px; height: 44px; border-radius: 50%; display: grid; place-items: center; background: var(--surface); border: 1px solid var(--stroke); transition: background-color .2s; }
 .v360-play:hover { background: #222; }
@@ -384,3 +384,34 @@ dialog.sheet img { width: 100%; height: auto; }
 .pt-col--red { background: var(--red); border-color: var(--red); }
 .pt-logo { position: absolute; left: 50%; top: 50%; width: min(320px, 60vw); translate: -50% -50%; }
 .pt-logo img { width: 100%; height: auto; }
+
+/* ---------- Vidéos ---------- */
+video { display: block; }
+.reels { list-style: none; margin: 0; padding: 0 var(--gutter) 12px; display: grid; grid-auto-flow: column; grid-auto-columns: clamp(220px, 21vw, 300px); gap: 16px; overflow-x: auto; scroll-snap-type: x mandatory; scroll-padding-inline: var(--gutter); scrollbar-width: thin; scrollbar-color: var(--red) transparent; }
+.reel { position: relative; aspect-ratio: 9 / 16; border-radius: var(--radius); overflow: hidden; background: var(--surface); scroll-snap-align: start; box-shadow: 0 0 0 1px var(--stroke); }
+.reel-video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.reel::after { content: ""; position: absolute; inset: 0; pointer-events: none; background: linear-gradient(rgba(0, 0, 0, .35), transparent 22%, transparent 60%, rgba(0, 0, 0, .8)); }
+.reel-top { position: absolute; z-index: 2; top: 10px; right: 10px; display: flex; gap: 8px; }
+.reel-btn { width: 44px; height: 44px; border-radius: 50%; display: grid; place-items: center; background: rgba(10, 10, 10, .55); backdrop-filter: blur(8px); color: #fff; transition: background-color .2s; }
+.reel-btn:hover, .reel-btn[aria-pressed="true"] { background: var(--red); }
+.reel-info { position: absolute; z-index: 2; left: 16px; right: 16px; bottom: 16px; display: grid; gap: 2px; }
+.reel-info strong { font-family: var(--display); font-weight: 400; font-size: 26px; line-height: 1; text-transform: uppercase; }
+.reel-info a { font-size: 13px; font-weight: 700; color: rgba(255, 255, 255, .85); }
+.reel-info a:hover { color: var(--red-2); }
+dialog.reel-dialog { border: 0; padding: 0; background: #000; border-radius: var(--radius); max-height: 92vh; overflow: hidden; }
+dialog.reel-dialog::backdrop { background: rgba(0, 0, 0, .85); backdrop-filter: blur(6px); }
+dialog.reel-dialog video { height: min(88vh, 900px); width: auto; max-width: 92vw; aspect-ratio: 9 / 16; object-fit: cover; }
+dialog.reel-dialog .sheet-close { position: absolute; top: 10px; right: 10px; background: rgba(10, 10, 10, .7); color: #fff; }
+
+.pm { display: grid; gap: 12px; }
+.pm-tabs { justify-self: start; }
+.pm-tabs button { display: inline-flex; align-items: center; gap: 8px; }
+.pm-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--red); }
+.pm-video { position: relative; aspect-ratio: 4 / 5; border-radius: var(--radius); overflow: hidden; background: #000; }
+.pm-video video { width: 100%; height: 100%; object-fit: cover; }
+.pm-video.is-vertical video { object-fit: contain; }
+
+.collection-poster.is-video video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.drop-video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity .5s; }
+.drop:hover .drop-video, .drop:focus-visible .drop-video { opacity: 1; }
+@media (hover: none) { .drop-video { display: none; } }

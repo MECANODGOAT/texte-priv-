@@ -3,7 +3,8 @@ import Image from "next/image";
 import { notFound } from "next/navigation";
 import ProductGrid from "@/components/ProductGrid";
 import Reveal from "@/components/Reveal";
-import { collections, products, sorted } from "@/lib/catalog";
+import AutoVideo from "@/components/AutoVideo";
+import { collections, products, reelsFor, sorted } from "@/lib/catalog";
 
 export function generateStaticParams() {
   return collections.map((c) => ({ slug: c.slug }));
@@ -20,11 +21,16 @@ export default async function CollectionPage({ params }: { params: Promise<{ slu
   const c = collections.find((x) => x.slug === slug);
   if (!c) notFound();
   const items = sorted(products.filter((p) => p.collection === slug));
+  const reel = reelsFor(slug)[0];
 
   return (
     <div className="wrap">
       <section className="collection-hero">
-        {c.poster && (
+        {reel ? (
+          <div className="collection-poster is-video">
+            <AutoVideo src={reel.src} poster={reel.poster} label={`Reel de la collection ${c.name}`} />
+          </div>
+        ) : c.poster && (
           <div className="collection-poster">
             <Image src={c.poster} alt={`Affiche de la collection ${c.name}`} fill sizes="(max-width: 900px) 100vw, 40vw" priority />
           </div>

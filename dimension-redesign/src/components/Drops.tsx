@@ -2,7 +2,8 @@ import Image from "next/image";
 import Link from "next/link";
 import Reveal from "./Reveal";
 import { ArrowUpRight } from "./Icons";
-import type { Collection } from "@/lib/catalog";
+import AutoVideo from "./AutoVideo";
+import { reelsFor, type Collection } from "@/lib/catalog";
 
 export default function Drops({ collections }: { collections: Collection[] }) {
   return (
@@ -20,6 +21,9 @@ export default function Drops({ collections }: { collections: Collection[] }) {
             <Reveal key={c.slug} delay={i * 0.08}>
               <Link href={`/collection/${c.slug}`} className="drop">
                 <Image src={c.poster!} alt={`Affiche de la collection ${c.name}`} fill sizes="(max-width: 900px) 78vw, 30vw" />
+                {reelsFor(c.slug)[0] && (
+                  <AutoVideo className="drop-video" trigger="hover" src={reelsFor(c.slug)[0].src} poster={reelsFor(c.slug)[0].poster} />
+                )}
                 <span className="drop-index">{String(i + 1).padStart(2, "0")}</span>
                 <div className="drop-label">
                   <div>

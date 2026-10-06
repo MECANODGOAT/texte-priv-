@@ -1,0 +1,18 @@
+{
+  "_comment": "Vidéos de la médiathèque dimensionbte.com. Les .mov d'origine sont en HEVC (illisible dans Chrome/Windows et la plupart des Android) : scripts/sync-videos.sh les convertit en MP4 H.264 dans public/videos.",
+  "reels": [
+    { "id": 31232, "title": "Zenith", "collection": "zenith", "source": "https://dimensionbte.com/wp-content/uploads/2026/09/dc5c359beb434463abdddb1dce96aeee.mov" },
+    { "id": 31233, "title": "Summer 2026", "collection": "zenith", "source": "https://dimensionbte.com/wp-content/uploads/2026/09/4ed5ba57b28a420c8718f58b3dec9549.mov" },
+    { "id": 30420, "title": "Backstage Univer", "collection": "univer", "source": "https://dimensionbte.com/wp-content/uploads/2026/05/Reel_BACKSTAGES_UNIVER.mov" },
+    { "id": 30318, "title": "Teaser Univer", "collection": "univer", "source": "https://dimensionbte.com/wp-content/uploads/2026/05/Teaser-univer.mov" },
+    { "id": 30217, "title": "Ice Blue", "collection": "polar-mode", "product": "sweat-a-capuche-fit-ice-blue", "source": "https://dimensionbte.com/wp-content/uploads/2026/04/62787c041b854aabbb809fe710bcf7f0.mov" },
+    { "id": 30028, "title": "Polar Mode", "collection": "polar-mode", "source": "https://dimensionbte.com/wp-content/uploads/2026/01/c5442afc3a314b28b79c4ac546118c8d.mov" },
+    { "id": 29970, "title": "Toxic Love", "collection": "polar-mode", "source": "https://dimensionbte.com/wp-content/uploads/2026/01/WhatsApp-Video-2025-12-28-at-15.35.06.mp4" },
+    { "id": 30110, "title": "Crimson Rebellion", "collection": "beyond-the-end", "product": "sweat-a-capuche-dimension-rouge-crimson-rebellion", "source": "https://dimensionbte.com/wp-content/uploads/2026/02/ec3a5ba2bbcf4aeea8ce0c28156e7bca.mov" },
+    { "id": 29539, "title": "Rouge & violet", "collection": "beyond-the-end", "source": "https://dimensionbte.com/wp-content/uploads/2025/12/Reel-Dimemnsion-ROUGE-VIOLET.mp4" }
+  ],
+  "products": [
+    { "id": 30891, "product": 30807, "source": "https://dimensionbte.com/wp-content/uploads/2026/07/Annimation_Debardeeur_Blue_star_DIMENSION.mp4" },
+    { "id": 30889, "product": 30792, "source": "https://dimensionbte.com/wp-content/uploads/2026/07/Annimation_Debardeur.mp4" }
+  ]
+}

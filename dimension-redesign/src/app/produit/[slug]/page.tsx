@@ -4,9 +4,9 @@ import { notFound } from "next/navigation";
 import BuyBox from "@/components/BuyBox";
 import CoverflowCarousel from "@/components/CoverflowCarousel";
 import ProductCard from "@/components/ProductCard";
+import ProductMedia from "@/components/ProductMedia";
 import Reveal from "@/components/Reveal";
-import Viewer360 from "@/components/Viewer360";
-import { collectionName, getProduct, products, related } from "@/lib/catalog";
+import { collectionName, getProduct, products, related, videoFor } from "@/lib/catalog";
 
 export function generateStaticParams() {
   return products.map((p) => ({ slug: p.slug }));
@@ -32,7 +32,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
 
       <div className="pdp">
         <div className="pdp-media">
-          <Viewer360 front={p.front.cutout} back={p.back?.cutout} alt={p.name} priority />
+          <ProductMedia p={p} video={videoFor(p)} />
           {p.lifestyle.length > 0 && (
             <Reveal>
               <CoverflowCarousel
