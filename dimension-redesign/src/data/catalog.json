@@ -1,0 +1,1091 @@
+{
+  "syncedAt": "2026-10-06T11:25:16.328Z",
+  "collections": [
+    {
+      "slug": "zenith",
+      "name": "ZENITH",
+      "poster": "https://dimensionbte.com/wp-content/uploads/2026/08/AFFICHE_ZENITH_SITE_WEB.png",
+      "count": 2
+    },
+    {
+      "slug": "univer",
+      "name": "Univer",
+      "poster": "https://dimensionbte.com/wp-content/uploads/2026/05/Collection_Univer_Affiche_officiel.png",
+      "count": 2
+    },
+    {
+      "slug": "polar-mode",
+      "name": "Polar Mode",
+      "poster": "https://dimensionbte.com/wp-content/uploads/2025/12/Affiche-coming-soon_polar-mode.png",
+      "count": 8
+    },
+    {
+      "slug": "beyond-the-end",
+      "name": "BEYOND THE END",
+      "poster": "https://dimensionbte.com/wp-content/uploads/2025/12/collection-beyond-the-end.png",
+      "count": 4
+    },
+    {
+      "slug": "first-horizon",
+      "name": "FIRST HORIZON",
+      "poster": "https://dimensionbte.com/wp-content/uploads/2025/12/FIRST-HORIZON-COLLECTION.png",
+      "count": 10
+    }
+  ],
+  "items": [
+    {
+      "id": 30807,
+      "slug": "debardeur-oversize-blue-star",
+      "name": "Debardeur Oversize Blue Star",
+      "permalink": "https://dimensionbte.com/produit/debardeur-oversize-blue-star/",
+      "kind": "tank",
+      "collection": "zenith",
+      "categories": [
+        "nouveautes",
+        "debardeur",
+        "tee-shirt",
+        "zenith"
+      ],
+      "price": 269,
+      "regularPrice": 269,
+      "inStock": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "description": "Le Débardeur Oversize BLUE STAR puise son inspiration dans les horizons infinis de l’été. Entre le bleu du ciel, les reflets cristallins de la mer et la douceur des journées ensoleillées, il incarne la facette la plus lumineuse de la collection ZENITH de Dimension. Une pièce pensée pour celles et ceux qui recherchent un style épuré sans renoncer à leur identité. Confectionné en 100 % coton épais , ce débardeur offre une coupe oversize structurée qui allie confort, liberté de mouvement et qualité premium. Son design mise sur la simplicité : un logo Dimension revisité dans un bleu pastel inspiré des eaux tropicales occupe le devant de la pièce, tandis qu’une version plus discrète est placée dans le haut du dos pour une finition élégante et équilibrée. Le Débardeur Oversize BLUE STAR célèbre le minimalisme. Sans graphisme imposant, chaque détail a été pensé pour créer une silhouette propre, moderne et intemporelle. Son contraste entre le blanc du coton et les nuances de bleu apporte une sensation immédiate de fraîcheur, faisant de cette pièce un indispensable des journées estivales. Caractéristiques principales : Débardeur oversize premium Impression DTF premium devant et derrière Coupe oversize confortable et structurée Design minimaliste avec logo Dimension bleu pastel Logo dorsal discret pour une finition soignée Unisexe (fille et garçon) Composition : 100 % coton Poids : 240 g/m² Entretien : lavage à froid à l’envers, séchage à l’air libre Pourquoi choisir le Débardeur Oversize BLUE STAR ? Parce qu’il prouve que la simplicité peut être une véritable signature. Son design épuré, associé à ses nuances de bleu inspirées de la mer et du ciel, en fait une pièce facile à porter tout en conservant une identité forte. Un essentiel premium qui s’intègre naturellement à toutes les garde-robes estivales. Comment porter le Débardeur Oversize BLUE STAR ? Associe-le à un short blanc, beige ou en denim, un pantalon cargo clair ou un jean oversize pour créer une silhouette estivale moderne. Complète le look avec des sneakers blanches ou des sandales minimalistes pour mettre en valeur la sobriété du design. Que ce soit en bord de mer, en ville ou en voyage, BLUE STAR apporte une touche de fraîcheur et d’élégance à chaque tenue. sur TikTok | Facebook | Instagram | YouTube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2026/07/37-700x875.png",
+        "cutout": "/cutouts/30807-front.webp"
+      },
+      "back": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2026/07/38-700x875.png",
+        "cutout": "/cutouts/30807-back.webp"
+      },
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2026/07/SIZES_DEBARDEURS-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2026/08/6-2-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/08/5-1-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/07/ChatGPT-Image-17-juil.-2026-17_01_45-700x923.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/08/9-700x875.png"
+      ]
+    },
+    {
+      "id": 30792,
+      "slug": "debardeur_oversize_sunburst",
+      "name": "Debardeur Oversize SUNBURST",
+      "permalink": "https://dimensionbte.com/produit/debardeur_oversize_sunburst/",
+      "kind": "tank",
+      "collection": "zenith",
+      "categories": [
+        "nouveautes",
+        "debardeur",
+        "tee-shirt",
+        "zenith"
+      ],
+      "price": 269,
+      "regularPrice": 269,
+      "inStock": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "description": "Le Débardeur Oversize SUNBURST est inspiré des paysages brûlés par le soleil, où les nuances de sable, de roche et de lumière se rencontrent. Pièce emblématique de la collection ZENITH de Dimension, il revisite les codes du streetwear en associant des influences militaires à une palette estivale chaleureuse. Confectionné en 100 % coton épais , il présente une coupe oversize structurée offrant un tombé naturel et un confort optimal. À l’avant, le logo Dimension adopte un dégradé inspiré des couleurs du soleil, apportant une touche sobre et élégante. À l’arrière, un imposant 22 habillé d’un motif camouflage revisité dans des tons sable, noir et jaune devient le point central de la pièce. La superposition du logo Dimension sur ce graphisme crée une composition visuelle forte qui affirme toute l’identité de la collection. Le contraste entre le blanc du débardeur et les couleurs chaudes du design fait écho aux paysages estivaux, tandis que le camouflage revisité apporte une dimension urbaine et contemporaine. Le résultat est une pièce qui allie caractère, équilibre et modernité. Caractéristiques principales : Débardeur oversize premium Impression DTF premium devant et derrière Coupe oversize confortable et structurée Design avant minimaliste avec logo Dimension Unisexe (fille et garçon) Composition : 100 % coton Poids : 240 g/m² Entretien : lavage à froid à l’envers, séchage à l’air libre Pourquoi choisir le Débardeur Oversize SUNBURST ? Parce qu’il revisite le camouflage dans une interprétation inédite. Les tons sable, noir et jaune rappellent la chaleur de l’été tout en conservant l’ADN brut du motif militaire. Associé au graphisme 22 et à la signature Dimension, il crée une pièce forte qui attire naturellement le regard sans compromettre son élégance. Comment porter le Débardeur Oversize SUNBURST ? Associe-le à un short oversize, un pantalon cargo ou un jean ample dans des tons neutres pour mettre en valeur les détails du design. Complète le look avec une paire de sneakers ou de sandales minimalistes afin de laisser toute la place au graphisme. Une pièce pensée pour accompagner aussi bien les journées en ville que les couchers de soleil en bord de mer. sur TikTok | Facebook | Instagram | YouTube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2026/07/35-700x875.png",
+        "cutout": "/cutouts/30792-front.webp"
+      },
+      "back": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2026/07/36-700x875.png",
+        "cutout": "/cutouts/30792-back.webp"
+      },
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2026/07/SIZES_DEBARDEURS-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2026/08/7-2-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/08/4-1-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/07/ChatGPT-Image-5-juil.-2026-19_37_50-700x875.png"
+      ]
+    },
+    {
+      "id": 30267,
+      "slug": "tee-shirt-long-sleeve-oversize-univers",
+      "name": "Tee-shirt Long Sleeve Oversize univers",
+      "permalink": "https://dimensionbte.com/produit/tee-shirt-long-sleeve-oversize-univers/",
+      "kind": "longsleeve",
+      "collection": "univer",
+      "categories": [
+        "nouveautes",
+        "tee-shirt",
+        "univer"
+      ],
+      "price": 319,
+      "regularPrice": 319,
+      "inStock": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Le Tee-shirt Tee-shirt Long Sleeve Oversize univers est une immersion dans une réalité multiple. Chaque regard raconte une histoire, chaque détail capte une émotion. Une pièce forte de la collection Univers de Dimension, pensée pour ceux qui voient au-delà des apparences. Conçu en coton épais, ce sweat offre une coupe oversize structurée qui allie confort, présence et identité. Les motifs d’yeux colorés dispersés sur l’ensemble du vêtement créent une dynamique visuelle unique, entre mystère et expression artistique. Le Tee-shirt Tee-shirt Long Sleeve Oversize incarne la perception, la vigilance et l’ouverture d’esprit. Une pièce destinée à celles et ceux qui observent le monde différemment et transforment leur vision en signature. Caractéristiques principales : Long sleeve oversize premium Impression DTF premium devant, derrière et sur les manches Coupe oversize confortable et structurée Unisexe (fille et garçon) Composition : 100 % coton Poids : 240 g/m² Entretien : lavage à froid à l’envers, séchage à l’air libre Pourquoi choisir le Tee-shirt Long Sleeve Oversize univers ? Parce qu’il symbolise la perception, la conscience et la différence. C’est une pièce qui attire les regards… tout en les défiant. Comment porter le Tee-shirt Long Sleeve Oversize univers ? Associe-le à un pantalon noir ou cargo pour laisser le design s’exprimer. Ajoute des sneakers sobres pour équilibrer le look et créer un contraste puissant. sur TikTok | Facebook | Instagram | YouTube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2026/04/28-700x875.png",
+        "cutout": "/cutouts/30267-front.webp"
+      },
+      "back": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2026/04/27-700x875.png",
+        "cutout": "/cutouts/30267-back.webp"
+      },
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2026/04/Size_card_long_sleeve-1-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2026/04/BDR03290-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/04/BDR03548-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/04/BDR03505-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/04/BDR03322-700x875.png"
+      ]
+    },
+    {
+      "id": 30258,
+      "slug": "long-sleeve-oversize-dimension",
+      "name": "Tee-shirt Long Sleeve Oversize Dimension",
+      "permalink": "https://dimensionbte.com/produit/long-sleeve-oversize-dimension/",
+      "kind": "longsleeve",
+      "collection": "univer",
+      "categories": [
+        "nouveautes",
+        "tee-shirt",
+        "univer"
+      ],
+      "price": 319,
+      "regularPrice": 319,
+      "inStock": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Le Tee-shirt Long Sleeve Oversize Dimension est l’essence même de l’identité de la marque. Minimaliste, puissant, intemporel. Une pièce signature pour ceux qui incarnent l’univers Dimension sans compromis. Conçu en coton épais 240 g/m², il propose une coupe oversize parfaitement structurée. Son design épuré met en avant le logo Dimension dans un style typographique fort, affirmant une présence sobre mais impactante. Dimension Classic représente la base. L’origine. Une pièce conçue pour celles et ceux qui construisent leur style autour d’une identité forte et assumée. Caractéristiques principales : Long sleeve oversize premium Impression DTF premium devant et derrière Coupe oversize confortable et structurée Unisexe (fille et garçon) Composition : 100 % coton Poids : 240 g/m² Entretien : lavage à froid à l’envers, séchage à l’air libre Pourquoi choisir le Tee-shirt Long Sleeve Oversize Dimension ? Parce qu’il incarne l’ADN pur de Dimension. C’est la pièce essentielle, celle qui traverse le temps sans perdre en impact. Comment porter le Tee-shirt Long Sleeve Oversize Dimension ? En total look noir pour un style minimaliste premium, ou avec un jean brut pour un contraste plus casual. Parfait avec une paire de sneakers clean. Suivez l’équipe Dimension sur TikTok | Facebook | Instagram | YouTube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2026/04/25-700x875.png",
+        "cutout": "/cutouts/30258-front.webp"
+      },
+      "back": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2026/04/26-700x875.png",
+        "cutout": "/cutouts/30258-back.webp"
+      },
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2026/04/Size_card_long_sleeve-1-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2026/04/BDR03378-700x876.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/04/BDR03439-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/04/BDR03494-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/04/BDR03384-700x875.png"
+      ]
+    },
+    {
+      "id": 29805,
+      "slug": "sweat-a-capuche-fit-street-voice",
+      "name": "Sweat á capuche Fit Street Voice",
+      "permalink": "https://dimensionbte.com/produit/sweat-a-capuche-fit-street-voice/",
+      "kind": "hoodie",
+      "collection": "polar-mode",
+      "categories": [
+        "nouveautes",
+        "pant-sweat-fits",
+        "polar-mode",
+        "sweats-a-capuche-zip"
+      ],
+      "price": 389,
+      "regularPrice": 389,
+      "inStock": false,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "L’ensemble Street Voice est la voix de la rue dans le silence de l’hiver. Une pièce phare de la collection Polar Mode , pensée pour ceux qui n’ont pas besoin de parler fort pour être entendus. Conçu en coton épais 330 g/m² , cet ensemble offre une coupe oversize structurée qui allie chaleur, confort et attitude. Le sweat à capuche et le pantalon assorti créent une silhouette puissante, sombre et minimaliste, signature du vrai streetwear premium. Ses motifs Street Voice incarnent l’expression libre, la vérité brute et l’identité urbaine. Un ensemble destiné à celles et ceux qui transforment leur vécu en style et leur style en message. Caractéristiques principales : Ensemble sweat à capuche + pantalon Impression DTF premium Coupe oversize confortable Sweat avec poche kangourou Taille élastique sur le pantalon Unisexe Composition : 100 % coton Poids : 330 g/m² Entretien : lavage à froid à l’envers, séchage à l’air libre Pourquoi choisir l’ensemble Street Voice ? Parce qu’il représente la liberté d’expression, l’authenticité et la force du silence . C’est l’ensemble de ceux qui marquent sans crier. Comment le porter ? En total look avec des sneakers noires ou blanches. Ajoute une doudoune sombre ou un manteau long pour renforcer l’aura mystérieuse et premium de Polar Mode . Suivez l’équipe Dimension sur TikTok | Facebook | Instagram | YouTube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/15-700x875.png",
+        "cutout": "/cutouts/29805-front.webp"
+      },
+      "back": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/16-700x875.png",
+        "cutout": "/cutouts/29805-back.webp"
+      },
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2025/12/4-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2026/01/57-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/61-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/54-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/58-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/56-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/55-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/63-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/51-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/65-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/50-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/53-700x875.png"
+      ]
+    },
+    {
+      "id": 29797,
+      "slug": "pant-sweat-fit-street-voice",
+      "name": "Pant Sweat Fit Street Voice",
+      "permalink": "https://dimensionbte.com/produit/pant-sweat-fit-street-voice/",
+      "kind": "pant",
+      "collection": "polar-mode",
+      "categories": [
+        "nouveautes",
+        "pant-sweat-fits",
+        "polar-mode"
+      ],
+      "price": 389,
+      "regularPrice": 389,
+      "inStock": false,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "L’ensemble Street Voice est la voix de la rue dans le silence de l’hiver. Une pièce phare de la collection Polar Mode , pensée pour ceux qui n’ont pas besoin de parler fort pour être entendus. Conçu en coton épais 330 g/m² , cet ensemble offre une coupe oversize structurée qui allie chaleur, confort et attitude. Le sweat à capuche et le pantalon assorti créent une silhouette puissante, sombre et minimaliste, signature du vrai streetwear premium. Ses motifs Street Voice incarnent l’expression libre, la vérité brute et l’identité urbaine. Un ensemble destiné à celles et ceux qui transforment leur vécu en style et leur style en message. Caractéristiques principales : Ensemble sweat à capuche + pantalon Impression DTF premium Coupe oversize confortable Sweat avec poche kangourou Taille élastique sur le pantalon Unisexe Composition : 100 % coton Poids : 330 g/m² Entretien : lavage à froid à l’envers, séchage à l’air libre Pourquoi choisir l’ensemble Street Voice ? Parce qu’il représente la liberté d’expression, l’authenticité et la force du silence . C’est l’ensemble de ceux qui marquent sans crier. Comment le porter ? En total look avec des sneakers noires ou blanches. Ajoute une doudoune sombre ou un manteau long pour renforcer l’aura mystérieuse et premium de Polar Mode . Suivez l’équipe Dimension sur TikTok | Facebook | Instagram | YouTube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/17-700x875.png",
+        "cutout": "/cutouts/29797-front.webp"
+      },
+      "back": null,
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2025/12/4-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2026/01/61-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/60-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/66-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/59-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/62-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/64-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/63-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/52-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/50-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/51-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/53-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/55-700x875.png"
+      ]
+    },
+    {
+      "id": 29790,
+      "slug": "sweat-a-capuche-fit-polar-star",
+      "name": "Sweat à capuche Fit Polar Star",
+      "permalink": "https://dimensionbte.com/produit/sweat-a-capuche-fit-polar-star/",
+      "kind": "hoodie",
+      "collection": "polar-mode",
+      "categories": [
+        "nouveautes",
+        "pant-sweat-fits",
+        "polar-mode",
+        "sweats-a-capuche-zip"
+      ],
+      "price": 369,
+      "regularPrice": 369,
+      "inStock": false,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "L’ensemble Polar Star s’inspire de l’étoile qui guide dans la nuit glaciale. Une pièce forte de la collection Polar Mode , pensée pour celles et ceux qui avancent avec vision, constance et ambition. Conçu en coton épais 330 g/m² , cet ensemble offre une coupe oversize structurée qui assure chaleur, confort et prestance. Le sweat à capuche et le pantalon assorti dessinent une silhouette moderne, fluide et parfaitement équilibrée. Ses motifs Polar Star rappellent la lumière qui perce le froid et l’obscurité. Un symbole de direction, de réussite et de détermination pour les esprits qui savent où ils vont. Caractéristiques principales : Ensemble sweat à capuche + pantalon Impression DTF premium Coupe oversize confortable Sweat avec poche kangourou Taille élastique sur le pantalon Unisexe Composition : 100 % coton Poids : 330 g/m² Entretien : lavage à froid à l’envers, séchage à l’air libre Pourquoi choisir l’ensemble Polar Star ? Parce qu’il symbolise la direction, la discipline et la constance . C’est l’ensemble de ceux qui construisent leur futur avec calme et vision. Comment le porter ? Porte-le en total look avec des sneakers blanches, grises ou noires. Ajoute un manteau long ou une doudoune oversize pour renforcer l’esthétique glaciale et premium de Polar Mode . Suivez l’équipe Dimension sur TikTok | Facebook | Instagram | YouTube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/13-700x875.png",
+        "cutout": "/cutouts/29790-front.webp"
+      },
+      "back": null,
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2025/12/4-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2026/01/2-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/5-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/10-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/4-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/3-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/6-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/12-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/1-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/14-700x875.png"
+      ]
+    },
+    {
+      "id": 29783,
+      "slug": "pant-sweat-fit-polar-star",
+      "name": "Pant Sweat Fit Polar Star",
+      "permalink": "https://dimensionbte.com/produit/pant-sweat-fit-polar-star/",
+      "kind": "pant",
+      "collection": "polar-mode",
+      "categories": [
+        "nouveautes",
+        "pant-sweat-fits",
+        "polar-mode"
+      ],
+      "price": 369,
+      "regularPrice": 369,
+      "inStock": false,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "L’ensemble Polar Star s’inspire de l’étoile qui guide dans la nuit glaciale. Une pièce forte de la collection Polar Mode , pensée pour celles et ceux qui avancent avec vision, constance et ambition. Conçu en coton épais 330 g/m² , cet ensemble offre une coupe oversize structurée qui assure chaleur, confort et prestance. Le sweat à capuche et le pantalon assorti dessinent une silhouette moderne, fluide et parfaitement équilibrée. Ses motifs Polar Star rappellent la lumière qui perce le froid et l’obscurité. Un symbole de direction, de réussite et de détermination pour les esprits qui savent où ils vont. Caractéristiques principales : Ensemble sweat à capuche + pantalon Impression DTF premium Coupe oversize confortable Sweat avec poche kangourou Taille élastique sur le pantalon Unisexe Composition : 100 % coton Poids : 330 g/m² Entretien : lavage à froid à l’envers, séchage à l’air libre Pourquoi choisir l’ensemble Polar Star ? Parce qu’il symbolise la direction, la discipline et la constance . C’est l’ensemble de ceux qui construisent leur futur avec calme et vision. Comment le porter ? Porte-le en total look avec des sneakers blanches, grises ou noires. Ajoute un manteau long ou une doudoune oversize pour renforcer l’esthétique glaciale et premium de Polar Mode . Suivez l’équipe Dimension sur TikTok | Facebook | Instagram | YouTube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/14-1-700x875.png",
+        "cutout": "/cutouts/29783-front.webp"
+      },
+      "back": null,
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2025/12/4-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2026/01/1-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/3-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/11-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/7-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/8-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/9-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/4-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/12-700x875.png"
+      ]
+    },
+    {
+      "id": 29776,
+      "slug": "sweat-a-capuche-fit-ice-blue",
+      "name": "Sweat à capuche Fit Ice Blue",
+      "permalink": "https://dimensionbte.com/produit/sweat-a-capuche-fit-ice-blue/",
+      "kind": "hoodie",
+      "collection": "polar-mode",
+      "categories": [
+        "nouveautes",
+        "pant-sweat-fits",
+        "polar-mode",
+        "sweats-a-capuche-zip"
+      ],
+      "price": 359,
+      "regularPrice": 359,
+      "inStock": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "L’ensemble Ice Blue incarne la pureté du froid et la puissance du calme. Une pièce signature de la collection Polar Mode , pensée pour celles et ceux qui imposent leur présence sans en faire trop. Conçu en coton épais 330 g/m² , cet ensemble offre une coupe oversize structurée et confortable, parfaite pour affronter l’hiver tout en conservant une allure streetwear propre et maîtrisée. Le sweat à capuche et le pantalon assorti créent une silhouette fluide, moderne et minimaliste. Sa teinte bleu glacier évoque la sérénité, la maîtrise de soi et la détermination silencieuse. Ice Blue s’adresse aux esprits lucides, à ceux qui avancent avec sang-froid, précision et élégance. Caractéristiques principales : Ensemble sweat à capuche + pantalon Coupe oversize confortable Sweat avec poche kangourou Taille élastique sur le pantalon Unisexe Composition : 100 % coton Poids : 330 g/m² Entretien : lavage à froid à l’envers, séchage à l’air libre Pourquoi choisir l’ensemble Ice Blue ? Parce qu’il impose un style calme mais puissant . C’est l’ensemble idéal pour ceux qui maîtrisent leur image, aiment les looks propres et minimalistes, et veulent une présence forte sans artifice. Comment le porter ? En total look avec des sneakers blanches ou grises. Ajoute une doudoune claire ou un manteau long pour un contraste hivernal propre et premium, fidèle à l’esprit Polar Mode . Suivez l’équipe Dimension sur TikTok | Facebook | Instagram | YouTube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/7-1-700x875.png",
+        "cutout": "/cutouts/29776-front.webp"
+      },
+      "back": null,
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2025/12/4-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2026/01/20-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/24-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/31-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/23-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/22-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/21-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/25-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/26-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/27-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/19-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/18-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/16-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/15-700x875.png"
+      ]
+    },
+    {
+      "id": 29769,
+      "slug": "pant-sweat-fit-ice-blue",
+      "name": "Pant Sweat Fit Ice Blue",
+      "permalink": "https://dimensionbte.com/produit/pant-sweat-fit-ice-blue/",
+      "kind": "pant",
+      "collection": "polar-mode",
+      "categories": [
+        "nouveautes",
+        "pant-sweat-fits",
+        "polar-mode"
+      ],
+      "price": 359,
+      "regularPrice": 359,
+      "inStock": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "L’ensemble Ice Blue incarne la pureté du froid et la puissance du calme. Une pièce signature de la collection Polar Mode , pensée pour celles et ceux qui imposent leur présence sans en faire trop. Conçu en coton épais 330 g/m² , cet ensemble offre une coupe oversize structurée et confortable, parfaite pour affronter l’hiver tout en conservant une allure streetwear propre et maîtrisée. Le sweat à capuche et le pantalon assorti créent une silhouette fluide, moderne et minimaliste. Sa teinte bleu glacier évoque la sérénité, la maîtrise de soi et la détermination silencieuse. Ice Blue s’adresse aux esprits lucides, à ceux qui avancent avec sang-froid, précision et élégance. Caractéristiques principales : Ensemble sweat à capuche + pantalon Coupe oversize confortable Sweat avec poche kangourou Taille élastique sur le pantalon Unisexe Composition : 100 % coton Poids : 330 g/m² Entretien : lavage à froid à l’envers, séchage à l’air libre Pourquoi choisir l’ensemble Ice Blue ? Parce qu’il impose un style calme mais puissant . C’est l’ensemble idéal pour ceux qui maîtrisent leur image, aiment les looks propres et minimalistes, et veulent une présence forte sans artifice. Comment le porter ? En total look avec des sneakers blanches ou grises. Ajoute une doudoune claire ou un manteau long pour un contraste hivernal propre et premium, fidèle à l’esprit Polar Mode . Suivez l’équipe Dimension sur TikTok | Facebook | Instagram | YouTube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/8-700x875.png",
+        "cutout": "/cutouts/29769-front.webp"
+      },
+      "back": null,
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2025/12/4-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2026/01/16-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/31-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/30-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/29-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/23-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/18-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/27-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/28-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/15-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/19-700x875.png"
+      ]
+    },
+    {
+      "id": 29761,
+      "slug": "sweat-capuche-fit-toxique-love",
+      "name": "Sweat à capuche Fit Toxique Love",
+      "permalink": "https://dimensionbte.com/produit/sweat-capuche-fit-toxique-love/",
+      "kind": "hoodie",
+      "collection": "polar-mode",
+      "categories": [
+        "nouveautes",
+        "pant-sweat-fits",
+        "polar-mode",
+        "sweats-a-capuche-zip"
+      ],
+      "price": 379,
+      "regularPrice": 379,
+      "inStock": false,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "L’ensemble Toxic Love incarne le contraste entre la chaleur de l’émotion et la froideur du monde extérieur. Conçu pour la collection Polar Mode , il associe un design fort à un confort premium, pensé pour affronter l’hiver avec style et caractère. Réalisé en coton épais 330 g/m² , cet ensemble offre une coupe oversize moderne qui structure la silhouette tout en garantissant une liberté de mouvement optimale. Le sweat à capuche et le pantalon assorti forment un look cohérent, urbain et assumé. Les impressions DTF apportent une signature visuelle puissante : le motif Toxic Love symbolise un amour intense, parfois dangereux, mais impossible à ignorer. Une esthétique brute et émotionnelle, fidèle à l’ADN streetwear de Dimension. Caractéristiques principales : Ensemble sweat à capuche + pantalon Impression DTF premium (avant, dos et détails) Coupe oversize confortable Sweat avec poche kangourou Taille élastique sur le pantalon Unisexe Composition : 100 % coton Poids : 330 g/m² Entretien : lavage à froid à l’envers, séchage à l’air libre Pourquoi choisir l’ensemble Toxic Love ? Parce qu’il ne se contente pas d’habiller : il exprime une émotion . C’est un ensemble pensé pour celles et ceux qui assument leur intensité, leur dualité, et leur différence, même dans le froid. Comment le porter ? Porte-le en total look pour un impact maximal, avec des sneakers massives ou des boots street. Ajoute une doudoune ou un manteau long pour accentuer l’esprit Polar Mode et affirmer ton style, même par températures basses. Suivez l’équipe Dimension sur TikTok | Facebook | Instagram | YouTube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/9-1-700x875.png",
+        "cutout": "/cutouts/29761-front.webp"
+      },
+      "back": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/10-1-700x875.png",
+        "cutout": "/cutouts/29761-back.webp"
+      },
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2025/12/4-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2026/01/49-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/37-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/47-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/46-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/44-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/35-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/48-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/32-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/33-700x875.png"
+      ]
+    },
+    {
+      "id": 29754,
+      "slug": "pant_sweat_fit_toxique_love",
+      "name": "Pant Sweat Fit Toxique Love",
+      "permalink": "https://dimensionbte.com/produit/pant_sweat_fit_toxique_love/",
+      "kind": "pant",
+      "collection": "polar-mode",
+      "categories": [
+        "nouveautes",
+        "pant-sweat-fits",
+        "polar-mode"
+      ],
+      "price": 379,
+      "regularPrice": 379,
+      "inStock": false,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "L’ensemble Toxic Love incarne le contraste entre la chaleur de l’émotion et la froideur du monde extérieur. Conçu pour la collection Polar Mode , il associe un design fort à un confort premium, pensé pour affronter l’hiver avec style et caractère. Réalisé en coton épais 330 g/m² , cet ensemble offre une coupe oversize moderne qui structure la silhouette tout en garantissant une liberté de mouvement optimale. Le sweat à capuche et le pantalon assorti forment un look cohérent, urbain et assumé. Les impressions DTF apportent une signature visuelle puissante : le motif Toxic Love symbolise un amour intense, parfois dangereux, mais impossible à ignorer. Une esthétique brute et émotionnelle, fidèle à l’ADN streetwear de Dimension. Caractéristiques principales : Ensemble sweat à capuche + pantalon Impression DTF premium (avant, dos et détails) Coupe oversize confortable Sweat avec poche kangourou Taille élastique sur le pantalon Unisexe Composition : 100 % coton Poids : 330 g/m² Entretien : lavage à froid à l’envers, séchage à l’air libre Pourquoi choisir l’ensemble Toxic Love ? Parce qu’il ne se contente pas d’habiller : il exprime une émotion . C’est un ensemble pensé pour celles et ceux qui assument leur intensité, leur dualité, et leur différence, même dans le froid. Comment le porter ? Porte-le en total look pour un impact maximal, avec des sneakers massives ou des boots street. Ajoute une doudoune ou un manteau long pour accentuer l’esprit Polar Mode et affirmer ton style, même par températures basses. Suivez l’équipe Dimension sur TikTok | Facebook | Instagram | YouTube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/11-700x875.png",
+        "cutout": "/cutouts/29754-front.webp"
+      },
+      "back": null,
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2025/12/4-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2026/01/33-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/45-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/42-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/41-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/49-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/43-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/44-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/39-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2026/01/32-700x875.png"
+      ]
+    },
+    {
+      "id": 1368,
+      "slug": "sweat-a-capuche-dimension-rouge-crimson-rebellion",
+      "name": "Sweat à Capuche Dimension Rouge Crimson Rebellion",
+      "permalink": "https://dimensionbte.com/produit/sweat-a-capuche-dimension-rouge-crimson-rebellion/",
+      "kind": "hoodie",
+      "collection": "beyond-the-end",
+      "categories": [
+        "beyond-the-end",
+        "nouveautes",
+        "sweats-a-capuche-zip"
+      ],
+      "price": 299,
+      "regularPrice": 299,
+      "inStock": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Le Sweat à Capuche Crimson Rebellion, en coton épais 330 g/m², combine confort et caractère. Sa coupe oversize et ses manches longues offrent une silhouette urbaine affirmée, idéale pour le streetwear audacieux. Les designs imprimés en DTF sur l’avant et les manches, montre un cris de rébellion intense, avec des motifs dynamiques symbolisant courage, force et passion. Crimson Rebellion est destiné aux esprits audacieux qui veulent se démarquer et affirmer leur identité. Caractéristiques principales : Impression DTF sur l’avant et les manches Coupe oversize, manches longues Poches kangourou Unisexe Composition : 100 % coton Poids : 330 g/m² Entretien : Lavage à froid à l’envers, séchage à l’air libre. Pourquoi choisir Crimson Rebellion ? Pour ceux qui veulent un sweat durable, confortable et au style audacieux, parfait pour exprimer force et passion. Comment le porter ? Avec un jean noir, un pantalon cargo ou un jogger rouge foncé, et des sneakers imposantes pour un look rebelle et urbain. Suivez l’équipe Dimension sur TikTok | Facebook | Instagram | YouTube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/Produits-DIMENSION-700x875.png",
+        "cutout": "/cutouts/1368-front.webp"
+      },
+      "back": null,
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2025/12/1-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2025/12/40-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/37-1-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/38-1-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/45-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/48-1-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/42-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/49-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/44-700x875.png"
+      ]
+    },
+    {
+      "id": 1363,
+      "slug": "tee-shirt-oversize-dimension-of-prophesy",
+      "name": "Tee-shirt Oversize Dimension Of Prophesy",
+      "permalink": "https://dimensionbte.com/produit/tee-shirt-oversize-dimension-of-prophesy/",
+      "kind": "tee",
+      "collection": "first-horizon",
+      "categories": [
+        "first-horizon",
+        "nouveautes",
+        "tee-shirt"
+      ],
+      "price": 150,
+      "regularPrice": 250,
+      "inStock": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Le tee-shirt Oversize Dimension Of Prophesy, confectionné en 100 % coton premium 220 g/m², allie confort, résistance et esthétique streetwear haut de gamme. Sa coupe oversize et ses manches larges assurent une silhouette moderne et fluide, fidèle aux codes du style urbain. Le design “Dimension Of Prophesy”, imprimé en DTF sur le devant, s’impose comme une vision mystique et puissante. Une main rouge spectrale projette un œil flamboyant qui semble transpercer le réel, symbole de clairvoyance et de destin. Trois squelettes alignés renforcent cette atmosphère prophétique, évoquant le lien entre la vie, la mort et l’au-delà. Ce t-shirt devient une véritable œuvre graphique, porteuse de symbolisme et de profondeur. Caractéristiques principales : Impression DTF haute qualité Grand motif graphique sur le devant Coupe oversize Col rond côtelé Manches larges Unisexe Composition : 100 % coton Poids : 220 g/m² Conseils d’entretien : Lavage à froid à l’envers et séchage à l’air libre pour préserver la qualité du tissu et de l’impression. Pourquoi choisir le Tee-shirt Oversize Dimension Of Prophesy ? Parce qu’il incarne une vision hors du commun, entre force, mystère et art visuel. Plus qu’un vêtement, c’est une déclaration artistique et spirituelle, pensée pour ceux qui veulent affirmer leur style avec puissance. Comment porter le Tee-shirt Oversize Dimension Of Prophesy ? Porte-le avec un pantalon cargo, un jean droit ou un short oversize. Associe-le à des sneakers minimalistes pour un look épuré, ou à des baskets montantes pour un style plus affirmé. Ajoute des accessoires urbains (casquette, bague ou chaîne) pour accentuer l’énergie de ce t-shirt au caractère unique. Suis la team Dimension Tiktok | Facebook | Instagram | Youtube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/64-scaled_lwsoptimized-700x875.webp",
+        "cutout": "/cutouts/1363-front.webp"
+      },
+      "back": null,
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2025/12/3-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2025/12/1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/10_lwsoptimized-1-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/5-4_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/11-3_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/8-4_lwsoptimized-700x875.webp"
+      ]
+    },
+    {
+      "id": 1358,
+      "slug": "tee-shirt-oversize-infinite-torment",
+      "name": "Tee-shirt Oversize Infinite Torment",
+      "permalink": "https://dimensionbte.com/produit/tee-shirt-oversize-infinite-torment/",
+      "kind": "tee",
+      "collection": "first-horizon",
+      "categories": [
+        "first-horizon",
+        "nouveautes",
+        "tee-shirt"
+      ],
+      "price": 199,
+      "regularPrice": 199,
+      "inStock": false,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Le tee-shirt Oversize Infinite Torment , confectionné en 100 % coton épais 240 g/m² , allie confort, force et esthétique premium . Sa coupe oversize et ses manches larges créent une silhouette fluide et moderne, emblématique du style streetwear. Le design “Infinite Torment” , imprimé en DTF sur le devant en grand , est une véritable œuvre visuelle. Il exprime le passage au-delà de la souffrance , incarné par un visage en cri silencieux dont émerge un second regard infini . Les détails du motif évoquent la douleur transcendée, la profondeur émotionnelle et la force intérieure , faisant de ce t-shirt une pièce chargée de sens et de puissance artistique. Caractéristiques principales : Impression DTF sur le cœur (avant) Grand motif DTF au dos Coupe oversize Col rond côtelé Manches larges Unisexe (filles et garçons) Composition : 100 % coton Poids : 240 g/m² Conseils d’entretien : Lavage à froid à l’envers et séchage à l’air libre pour préserver la qualité du tissu et de l’impression. Pourquoi choisir le Tee-shirt Oversize Infinite Torment ? Parce qu’il est plus qu’un vêtement : c’est une pièce maîtresse streetwear premium , qui raconte une histoire. Avec son design fort et expressif, il reflète un état d’esprit de résilience et te permet d’affirmer ton style avec intensité. Grâce à sa qualité de confection en coton premium, il offre confort et durabilité sans compromis. Comment porter le Tee-shirt Oversize Infinite Torment ? Porte-le avec un pantalon cargo, un jean droit ou un short oversize . Associe-le à des sneakers minimalistes pour un look épuré, ou à des baskets montantes pour un style plus affirmé. Ajoute des accessoires urbains (casquette, bague ou chaîne) pour accentuer l’énergie de ce t-shirt au caractère unique. Suis la team Dimension Tiktok | Facebook | Instagram | Youtube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/284-700x875.webp",
+        "cutout": "/cutouts/1358-front.webp"
+      },
+      "back": null,
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2025/12/3-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2025/12/35_lwsoptimized-1-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/34_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/37_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/36_lwsoptimized-1-700x875.webp"
+      ]
+    },
+    {
+      "id": 1353,
+      "slug": "tee-shirt-oversize-focus-sniper-death",
+      "name": "Tee-shirt Oversize Focus Sniper Death",
+      "permalink": "https://dimensionbte.com/produit/tee-shirt-oversize-focus-sniper-death/",
+      "kind": "tee",
+      "collection": "first-horizon",
+      "categories": [
+        "first-horizon",
+        "nouveautes",
+        "tee-shirt"
+      ],
+      "price": 150,
+      "regularPrice": 279,
+      "inStock": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Le tee-shirt Oversize Focus Sniper Death, fabriqué en 100 % coton écru épais 240 g/m², marie confort supérieur, durabilité et style streetwear affirmé. Sa coupe oversize et ses manches larges créent un look moderne et détendu, parfait pour une silhouette urbaine contemporaine. Le design “Focus Sniper Death”, imprimé en DTF à l’avant et à l’arrière, frappe par son intensité visuelle. Au dos, une armée de silhouettes vertes est marquée par deux viseurs violets, rappelant la précision et la fatalité d’une cible verrouillée. À l’avant, le logo Dimension fusionne avec un viseur central, renforçant le contraste entre identité et menace. Cette pièce incarne le danger, la précision et l’audace graphique d’un univers streetwear sans concession. Caractéristiques principales : Impression DTF sur le devant et le dos Motif grand format au dos Coupe oversize Col rond côtelé Manches larges Unisexe Composition : 100 % coton Poids : 240 g/m² Conseils d’entretien : Lavage à froid à l’envers et séchage à l’air libre pour préserver la qualité du tissu et de l’impression. Pourquoi choisir le Tee-shirt Oversize Focus Sniper Death ? Parce qu’il combine esthétique percutante et message fort. Avec son graphisme radical et son aura underground, ce t-shirt transcende le vêtement pour devenir une pièce statement, conçue pour les esprits rebelles et visionnaires. Comment porter le Tee-shirt Oversize Focus Sniper Death Porte-le avec un pantalon cargo, un jean droit ou un short oversize . Associe-le à des sneakers minimalistes pour un look épuré, ou à des baskets montantes pour un style plus affirmé. Ajoute des accessoires urbains (casquette, bague ou chaîne) pour accentuer l’énergie de ce t-shirt au caractère unique. Suis la team Dimension Tiktok | Facebook | Instagram | Youtube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/66-scaled_lwsoptimized-700x875.webp",
+        "cutout": "/cutouts/1353-front.webp"
+      },
+      "back": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/67-scaled_lwsoptimized-700x875.webp",
+        "cutout": "/cutouts/1353-back.webp"
+      },
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2025/12/3-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2025/12/2-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/1-1_lwsoptimized-2-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/5_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/85_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/86_lwsoptimized-700x875.webp"
+      ]
+    },
+    {
+      "id": 1352,
+      "slug": "tee-shirt-oversize-mouth-dimension",
+      "name": "Tee-shirt Oversize Mouth Dimension",
+      "permalink": "https://dimensionbte.com/produit/tee-shirt-oversize-mouth-dimension/",
+      "kind": "tee",
+      "collection": "first-horizon",
+      "categories": [
+        "first-horizon",
+        "nouveautes",
+        "tee-shirt"
+      ],
+      "price": 150,
+      "regularPrice": 299,
+      "inStock": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Le tee-shirt Oversize Mouth Dimension , confectionné en 100 % coton épais 240 g/m², allie confort, luxe et style affirmé. Sa coupe oversize et ses manches larges offrent une silhouette fluide et moderne, parfaite pour le streetwear. La teinte vert Olive-Pal apporte une élégance subtile et renforce l’image prestigieuse de ce t-shirt. Le design “Mouth Dimension” , imprimé en DTF sur le devant en grand, capture la force du streetwear fusionnée au luxe. Il met en avant une bouche féminine magnifiquement sculptée, aux lèvres brillantes et glosées, ornée de grills en diamants et or, tandis que le lettrage Dimension apparaît en reflet blanc lumineux, comme une lumière éclatante. La couleur vert Olive-Pal souligne à la fois la sophistication et la puissance du design, inspiré par l’idée que la bouche reflète ton monde intérieur. Ce motif traduit la puissance du silence et l’énergie d’un sourire contenu, pour ceux qui avancent avec confiance et audace. Points forts du tee-shirt : Impression DTF en grand sur le devant Coupe oversize et manches larges Col rond côtelé Unisexe Composition : 100 % coton, 240 g/m² Entretien : Lavage à froid à l’envers et séchage à l’air libre pour préserver l’éclat du tissu et des motifs. Pourquoi choisir le Tee-shirt Oversize Mouth Dimension ? Plus qu’un vêtement, ce tee-shirt est une pièce maîtresse streetwear premium. Son design expressif et luxueux te permet d’affirmer ton style sans en faire trop, tout en restant confortable et durable grâce au coton de qualité et à l’impression DTF haute précision. Comment porter le Tee-shirt Oversize Mouth Dimension ? Associe-le à un jean droit, un pantalon cargo ou un short structuré. Les sneakers épurées créent un look minimaliste, tandis que des baskets montantes renforcent un style audacieux. Un bob ou une casquette complète le look urbain et moderne. Ce tee-shirt s’impose naturellement comme pièce centrale de ton outfit streetwear, pour une silhouette confiante et expressive. Suis la team Dimension Tiktok | Facebook | Instagram | Youtube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/57_lwsoptimized-700x875.webp",
+        "cutout": "/cutouts/1352-front.webp"
+      },
+      "back": null,
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2025/12/3-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2025/12/33_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/34-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/22-1_lwsoptimized-1-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/4-4_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/36-1_lwsoptimized-700x875.webp"
+      ]
+    },
+    {
+      "id": 1330,
+      "slug": "tee-shirt-oversize-freedom-elevation",
+      "name": "Tee-shirt Oversize Freedom élévation",
+      "permalink": "https://dimensionbte.com/produit/tee-shirt-oversize-freedom-elevation/",
+      "kind": "tee",
+      "collection": "first-horizon",
+      "categories": [
+        "first-horizon",
+        "nouveautes",
+        "tee-shirt"
+      ],
+      "price": 179,
+      "regularPrice": 179,
+      "inStock": false,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Le tee-shirt Oversize Freedom élévation de la marque DIMENSION , confectionné en 100 % coton épais de 220 g/m², ce t-shirt combine confort absolu et esthétique puissante. Sa coupe oversize et ses manches larges créent une silhouette décontractée et affirmée. Le motif, imprimé en DTF sur le cœur à l’avant et en grand au centre du dos, met en avant une élévation symbolique : des mains tendues vers un papillon délicat, entourées d’étoiles scintillantes. Ce design transmet un message fort de liberté, d’identité et d’aspiration à s’élever au-dessus du banal. Freedom Élévation incarne la force intérieure et le désir d’authenticité. Avec son col ras du cou côtelé et ses finitions soignées, ce t-shirt s’adresse aux esprits libres, ambitieux et créatifs. Une pièce forte pour celles et ceux qui veulent exprimer leur détermination avec élégance. Caractéristiques principales : Impression DTF sur le cœur (avant) Grand motif DTF au dos Coupe oversize Col rond côtelé Manches larges Unisexe (filles et garçons) Composition : 100 % coton Poids : 220 g/m² Conseils d’entretien :Lavage à froid à l’envers et séchage à l’air libre pour préserver la qualité du tissu et de l’impression. Pourquoi Choisir le Tee-shirt Oversize Freedom élévation? Le Freedom Élévation est une pièce incontournable du streetwear moderne, idéale pour ceux qui recherchent à exprimer leur authenticité et leur soif de liberté . Grâce à son impression DTF de haute qualité , les motifs restent éclatants et détaillés même après plusieurs lavages. Sa matière résistante en 100 % coton naturel et son grammage de 220 g/m² garantissent un confort durable et une longévité exceptionnelle . Un t-shirt parfait pour affirmer sa personnalité et sa vision du monde. Comment le Tee-shirt Oversize Freedom élévation ? Ce t-shirt oversize se marie facilement avec une large gamme de tenues streetwear . Il s’associe parfaitement avec un pantalon cargo , un jean droit ou même un short structuré pour une silhouette à la fois décontractée et affirmée. Ajoute des sneakers minimalistes ou des baskets montantes pour renforcer l’impact de ton look. Pour une touche supplémentaire de style, complète ta tenue avec un bobs ou une casquette pour une allure urbaine contemporaine. Suis la team Dimension Tiktok | Facebook | Instagram | Youtube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/39_lwsoptimized-700x875.webp",
+        "cutout": "/cutouts/1330-front.webp"
+      },
+      "back": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/40_lwsoptimized-700x875.webp",
+        "cutout": "/cutouts/1330-back.webp"
+      },
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2025/12/3-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2025/12/12-3_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/16-1_lwsoptimized-1-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/18-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/11-4_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/14-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/17_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/17-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/16-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/13-3_lwsoptimized-1-700x875.webp"
+      ]
+    },
+    {
+      "id": 1326,
+      "slug": "sweat-a-capuche-violet-zippe-purple-nova",
+      "name": "Sweat à Capuche violet Zippé Purple Nova",
+      "permalink": "https://dimensionbte.com/produit/sweat-a-capuche-violet-zippe-purple-nova/",
+      "kind": "hoodie",
+      "collection": "beyond-the-end",
+      "categories": [
+        "beyond-the-end",
+        "nouveautes",
+        "sweats-a-capuche-zip"
+      ],
+      "price": 349,
+      "regularPrice": 349,
+      "inStock": false,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Le Sweat à Capuche Zippé Purple Nova , confectionné en coton épais de 330 g/m², allie confort absolu et énergie éclatante dans un style résolument streetwear. Sa coupe oversize moderne, ses manches longues et sa capuche ajustable créent une silhouette audacieuse et décontractée, parfaite pour affirmer son identité urbaine. Le motif DTF, présent sur les deux côtés avant du sweat, mêle étoiles de réussite, regards de doute et éclats de lumière inspirés des galaxies lointaines. Ce mélange unique symbolise créativité, puissance et mystère. Purple Nova est conçu pour ceux qui veulent se démarquer, exprimer leur personnalité et imposer un style à la fois cosmique et street. Caractéristiques principales : Impression DTF à l’avant Zippé intégral avec capuche Manches longues et coupe oversize Poches kangourou Unisexe Composition : 100 % coton Poids : 330 g/m² Entretien : Lavage à froid à l’envers, séchage à l’air libre. Pourquoi choisir Purple Nova ? Idéal pour afficher un style cosmique et audacieux, tout en profitant d’un confort durable et d’une impression de qualité. Comment le porter ? Associez-le à un pantalon cargo ou un jean foncé et des sneakers lumineuses pour compléter le look interstellaire. Suis la team Dimension Tiktok | Facebook | Instagram | Youtube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/7-700x875.png",
+        "cutout": "/cutouts/1326-front.webp"
+      },
+      "back": null,
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2025/12/2-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2025/12/68-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/67-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/70-1-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/71-1-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/74-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/69-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/73-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/77-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/75-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/76-700x875.png"
+      ]
+    },
+    {
+      "id": 1325,
+      "slug": "tee-shirt-oversize-fleur-violette-sculptee",
+      "name": "Tee-shirt Oversize Fleur Violette Sculptée",
+      "permalink": "https://dimensionbte.com/produit/tee-shirt-oversize-fleur-violette-sculptee/",
+      "kind": "tee",
+      "collection": "first-horizon",
+      "categories": [
+        "first-horizon",
+        "nouveautes",
+        "tee-shirt"
+      ],
+      "price": 169,
+      "regularPrice": 169,
+      "inStock": false,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Tee-shirt Oversize Fleur Violette Sculptéede la marque DIMENSION, confectionné en 100 % coton épais de 220 g/m², le t-shirt oversize Fleur Violette Sculptée allie confort optimal et esthétique raffinée. Sa coupe ample et ses manches larges créent une silhouette décontractée, affirmée et pleine de caractère. Le motif central, imprimé en DTF en grand format à l’avant, représente deux statues fusionnées aux expressions différentes, nichées au cœur d’une fleur violette qui aspire à s’unir. Une image puissante, à la croisée de la douceur florale et de la renaissance sculpturale, qui résonne avec l’idée d’assemblage artistique et de renouveau. Ce design incarne l’équilibre subtil entre sensibilité et puissance intérieure. Avec son col ras du cou côtelé et ses finitions soignées, ce t-shirt s’adresse aux esprits sensibles et créatifs, à celles et ceux qui souhaitent affirmer leur identité avec douceur et profondeur. Une pièce qui capte les regards sans jamais en faire trop. Caractéristiques principales : Impression DTF grand format à l’avant Coupe oversize Col rond côtelé Manches larges Unisexe Composition : 100 % coton Poids : 220 g/m² Conseils d’entretien : Lavage à froid à l’envers et séchage à l’air libre pour préserver la qualité du tissu et de l’impression. Pourquoi Choisir le Tee-shirt Oversize Fleur Violette Sculptée ? Ce t-shirt est bien plus qu’un simple vêtement, il est l’expression de ton identité visuelle . Sa coupe oversize et ses finitions soignées s’intègrent à merveille dans l’univers du streetwear tout en affirmant une touche d’élégance. Le coton naturel de haute qualité offre un confort exceptionnel qui dure dans le temps, et l’impression DTF conserve sa brillance lavage après lavage. Une pièce à la fois intemporelle et moderne, qui saura traverser les saisons. Comment le Tee-shirt Oversize Fleur Violette Sculptée ? Le Tee-shirt Oversize Fleur Violette Sculptée est une véritable pièce polyvalente. Pour un look urbain et élégant, associe-le à un pantalon cargo , un jean droit ou même un short structuré . Ajoute des sneakers épurées pour un look minimaliste ou des baskets montantes pour une touche plus affirmée. Accessoirise-le d’un bob ou d’une casquette pour une silhouette moderne et urbaine. Ce t-shirt s’adapte à toutes les occasions, que tu souhaites une tenue décontractée ou un ensemble plus audacieux. Suis la team Dimension Tiktok | Facebook | Instagram | Youtube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/47_lwsoptimized-700x875.webp",
+        "cutout": "/cutouts/1325-front.webp"
+      },
+      "back": null,
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2025/12/3-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2025/12/38_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/olivia_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/6-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/9-3_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/5-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/3-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/1-1_lwsoptimized-1-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/7-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/8-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/11_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/10_lwsoptimized-700x875.webp"
+      ]
+    },
+    {
+      "id": 1321,
+      "slug": "tee-shirt-oversize-noir-orbit",
+      "name": "Tee-shirt Oversize Noir Orbit",
+      "permalink": "https://dimensionbte.com/produit/tee-shirt-oversize-noir-orbit/",
+      "kind": "tee",
+      "collection": "first-horizon",
+      "categories": [
+        "first-horizon",
+        "nouveautes",
+        "tee-shirt"
+      ],
+      "price": 159,
+      "regularPrice": 159,
+      "inStock": false,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Le t ee-shirt oversize noir – Orbit, confectionné en 100 % coton épais de 220 g/m², ce tee-shirt offre un équilibre parfait entre confort et caractère. Sa coupe oversize et ses manches larges lui confèrent une silhouette décontractée et structurée. Le design Orbit, imprimé en grand au centre du torse, incarne le mouvement perpétuel. Minimaliste dans le style, mais puissant dans l’attitude, ce visuel capte l’énergie de ceux qui gravitent entre rêve et réalité. Avec son col ras du cou côtelé, ce t-shirt ne suit pas les tendances – il suit ton orbite. Caractéristiques principales : Grand motif DTF à l’avant (centre) Coupe surdimensionnée Col rond côtelé Manches larges Unisexe Composition : 100 % coton Poids : 220 g/m² Conseils d’entretien : Lavage à froid à l’envers et séchage à l’air libre pour préserver la qualité du tissu et de l’impression. Un tee-shirt streetwear qui attire tous les regards Le tee-shirt oversize Orbit est une pièce audacieuse conçue pour ceux qui veulent affirmer leur style sans compromis. Son design galactique évoque une vision futuriste du streetwear, tout en restant ancré dans une esthétique minimaliste et élégante. Avec son fond noir profond, le visuel imprimé au dos crée un contraste puissant qui attire naturellement l’attention. Ce tee-shirt streetwear est taillé dans un coton épais (220 g/m²) qui lui assure une structure parfaite et un tombé impeccable. La coupe oversize apporte du volume sans alourdir la silhouette, idéale pour créer des superpositions ou pour être porté seul. Les finitions haut de gamme – manches larges, col côtelé, couture renforcée – témoignent d’un véritable souci du détail. L’équilibre parfait entre confort et expression Pensé pour accompagner les explorateurs urbains, ce tee-shirt se marie aussi bien avec un jean noir slim qu’avec un pantalon cargo ample. Il te permet d’exprimer une attitude résolument contemporaine, entre art visuel et esprit rebelle. L’impression DTF haute qualité garantit une tenue longue durée des graphismes, pour un style intact au fil des lavages. Ajoute une paire de sneakers techniques, un sac crossbody et une veste légère, et tu obtiens un look streetwear maîtrisé, prêt à marquer les esprits. Suivez l’équipe Dimension sur TikTok | Facebook | Instagram | YouTube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/8_lwsoptimized-700x875.webp",
+        "cutout": "/cutouts/1321-front.webp"
+      },
+      "back": null,
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2025/12/3-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2025/12/31-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/35_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/33-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/36_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/10-4_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/30-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/13-2_lwsoptimized-1-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/32-1_lwsoptimized-700x875.webp"
+      ]
+    },
+    {
+      "id": 1317,
+      "slug": "sweat-a-capuche-double-zippe-dimension-explosion-spatiale",
+      "name": "Sweat à Capuche double Zippe Dimension Explosion Spatiale",
+      "permalink": "https://dimensionbte.com/produit/sweat-a-capuche-double-zippe-dimension-explosion-spatiale/",
+      "kind": "hoodie",
+      "collection": "beyond-the-end",
+      "categories": [
+        "beyond-the-end",
+        "nouveautes",
+        "sweats-a-capuche-zip"
+      ],
+      "price": 349,
+      "regularPrice": 349,
+      "inStock": false,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Le Sweat à Capuche double Zippe Explosion Spatiale, confectionné en 100 % coton épais de 330 g/m², allie confort suprême et style audacieux. Sa coupe moderne et oversize, avec manches longues et capuche ajustable, offre une silhouette décontractée et affirmée, parfaite pour le streetwear urbain. Le motif, imprimé en DTF en grand à l’avant et au dos, représente un cosmos vibrant où des explosions d’étoiles et de nébuleuses se mêlent, évoquant une énergie cosmique puissante et une liberté sans limites. Explosion Spatiale incarne l’audace et la passion pour l’inexploré, une pièce qui exprime force intérieure et originalité. Caractéristiques principales : Impression DTF en grand au centre de l’avant Grand motif DTF au dos Double Zippe intégral avec capuche ajustable Manches longues et coupe moderne oversize Poches kangourou Unisexe Composition : 100 % coton Poids : 330 g/m² Entretien : Lavage à froid à l’envers, séchage à l’air libre pour préserver qualité et impression. Pourquoi choisir Explosion Spatiale ? Un sweat à capuche incontournable pour ceux qui veulent afficher leur audace et leur goût pour l’originalité. L’impression DTF conserve ses couleurs éclatantes même après plusieurs lavages, et la matière épaisse garantit confort et durabilité. Comment le porter ? Avec un jean décontracté, un pantalon cargo ou un short streetwear, complété par des sneakers imposantes. La capuche zippée permet de moduler le look selon l’envie. Suis la team Dimension Tiktok | Facebook | Instagram | Youtube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/2-1-700x875.png",
+        "cutout": "/cutouts/1317-front.webp"
+      },
+      "back": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/3-3-700x875.png",
+        "cutout": "/cutouts/1317-back.webp"
+      },
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2025/12/2-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2025/12/30-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/25-1-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/26-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/27-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/28-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/29-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/35-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/31-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/34-700x875.png"
+      ]
+    },
+    {
+      "id": 1316,
+      "slug": "tee-shirt-oversize-blue-mirage",
+      "name": "Tee-shirt Oversize Blue Mirage",
+      "permalink": "https://dimensionbte.com/produit/tee-shirt-oversize-blue-mirage/",
+      "kind": "tee",
+      "collection": "first-horizon",
+      "categories": [
+        "first-horizon",
+        "nouveautes",
+        "tee-shirt"
+      ],
+      "price": 179,
+      "regularPrice": 179,
+      "inStock": false,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Le tee-shirt oversize blanc – Blue Mirage, confectionné en 100 % coton épais de 220 g/m², ce t-shirt allie douceur, légèreté visuelle et force intérieure. Sa coupe oversize et ses manches larges lui donnent une allure fluide et affirmée. Le design Blue Mirage, imprimé en DTF sur le cœur à l’avant et en grand dans le dos, évoque la clarté dans le chaos. Né entre ciel et mer, ce t-shirt s’adresse à ceux qui avancent avec calme et confiance. Épuré, profond et chargé d’énergie, Blue Mirage ne crie pas son style — il l’impose. Caractéristiques principales : Impression DTF sur le cœur (avant) Grand motif DTF au dos Coupe surdimensionnée Col rond côtelé Manches larges Unisexe Composition : 100 % coton Poids : 220 g/m² Conseils d’entretien : Lavage à froid à l’envers et séchage à l’air libre pour préserver la qualité du tissu et de l’impression. Pourquoi choisir le tee-shirt Blue Mirage ? Le tee-shirt oversize Blue Mirage est bien plus qu’un simple vêtement : c’est une pièce maîtresse de ta garde-robe. Son design épuré mais expressif fait de lui un allié de taille pour affirmer ton identité visuelle, sans tomber dans l’excès. Avec sa coupe oversize, ses manches larges et son col rond côtelé, il épouse parfaitement les codes du style streetwear moderne tout en conservant une élégance subtile. Confectionné à partir de coton 100 % naturel, ce tee-shirt assure un confort inégalé, même après plusieurs lavages. Son grammage de 220 g/m² lui donne une tenue impeccable et une belle durabilité. Grâce à la technique d’impression DTF, les motifs conservent leur éclat et leur précision, qu’il s’agisse du visuel minimaliste à l’avant ou de l’œuvre plus expressive dans le dos. Comment le porter ? Ce tee-shirt oversize s’adapte à toutes les morphologies et se porte facilement avec un pantalon cargo, un jean droit ou un short structuré. Il peut être associé à des sneakers épurées pour un look clean ou à des baskets montantes pour un style plus affirmé. Ajoute un bob ou une casquette et tu obtiens une silhouette urbaine forte, parfaitement dans l’air du temps. Que tu sois dans une vibe chill ou une démarche plus audacieuse, ce tee-shirt s’impose naturellement comme une pièce centrale de ton outfit. Suivez l’équipe Dimension sur TikTok | Facebook | Instagram | YouTube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/3-2-700x875.png",
+        "cutout": "/cutouts/1316-front.webp"
+      },
+      "back": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/3.2png-700x875.png",
+        "cutout": "/cutouts/1316-back.webp"
+      },
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2025/12/3-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2025/12/45-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/26_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/23_lwsoptimized-1-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/50-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/27_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/25_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/28_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/48-1_lwsoptimized-700x875.webp"
+      ]
+    },
+    {
+      "id": 1315,
+      "slug": "tee-shirt-oversize-noir-hypnose",
+      "name": "Tee-shirt Oversize Noir hypnose",
+      "permalink": "https://dimensionbte.com/produit/tee-shirt-oversize-noir-hypnose/",
+      "kind": "tee",
+      "collection": "first-horizon",
+      "categories": [
+        "first-horizon",
+        "nouveautes",
+        "tee-shirt"
+      ],
+      "price": 169,
+      "regularPrice": 169,
+      "inStock": false,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Le tee-shirt oversize noir – Hypnose, confectionné en 100 % coton épais de 220 g/m², ce t-shirt combine confort absolu et esthétique saisissante. Sa coupe oversize et ses manches larges créent une silhouette décontractée et affirmée. Le motif hypnotique, imprimé en DTF sur le cœur à l’avant et en grand au centre du dos, symbolise l’imagination sans limite et la volonté de bousculer les perceptions. Avec son col ras du cou côtelé et ses finitions soignées, Hypnose s’adresse aux esprits libres, curieux et visionnaires. Une pièce forte pour celles et ceux qui explorent la réalité autrement. Caractéristiques principales : Impression DTF sur le cœur (avant) Grand motif DTF au dos Coupe oversize Col rond côtelé Manches larges Unisexe Composition : 100 % coton Poids : 220 g/m² Conseils d’entretien :Lavage à froid à l’envers et séchage à l’air libre pour préserver la qualité du tissu et de l’impression. Un tee-shirt streetwear au design hypnotique et puissant Le tee-shirt oversize Hypnose est une pièce forte qui allie style urbain et créativité. Son imprimé captivant, réalisé en DTF haute qualité, donne vie à un motif hypnotique qui séduit par son originalité et son impact visuel. Confectionné en coton épais 220 g/m², ce tee-shirt offre à la fois confort et durabilité, idéal pour un usage quotidien dans un univers streetwear. Sa coupe oversize avec manches larges et col rond côtelé assure une silhouette décontractée, libre et moderne. Ce tee-shirt streetwear s’adapte parfaitement à toutes les tenues, apportant une touche artistique et contemporaine à votre look. Conçu pour durer et affirmer votre style Avec sa matière résistante et ses finitions soignées, ce tee-shirt oversize conserve son éclat et sa forme lavage après lavage. Parfait pour exprimer votre personnalité et affirmer un style urbain unique, il s’associe facilement à un jean, un pantalon cargo ou un short pour un rendu streetwear authentique. Suis la team Dimension Tiktok | Facebook | Instagram | Youtube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/7-1-scaled_lwsoptimized-700x875.webp",
+        "cutout": "/cutouts/1315-front.webp"
+      },
+      "back": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/8-1-scaled_lwsoptimized-700x875.webp",
+        "cutout": "/cutouts/1315-back.webp"
+      },
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2025/12/3-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2025/12/24-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/25-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/13-3_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/26-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/18_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/19_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/20_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/23_lwsoptimized-700x875.webp"
+      ]
+    },
+    {
+      "id": 1314,
+      "slug": "sweat-a-capuche-zippe-dimension-gris-dark-mood-dimension",
+      "name": "Sweat à Capuche Zippé Dimension Gris Dark Mood Dimension",
+      "permalink": "https://dimensionbte.com/produit/sweat-a-capuche-zippe-dimension-gris-dark-mood-dimension/",
+      "kind": "hoodie",
+      "collection": "beyond-the-end",
+      "categories": [
+        "beyond-the-end",
+        "nouveautes",
+        "sweats-a-capuche-zip"
+      ],
+      "price": 349,
+      "regularPrice": 349,
+      "inStock": false,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Le Sweat à Capuche Zippé Dark Mood Dimension , confectionné en 100 % coton épais de 330 g/m², allie confort absolu et esthétique audacieuse. Sa coupe oversize moderne, ses manches longues et sa capuche ajustable créent une silhouette décontractée, sophistiquée et résolument streetwear. Le motif imprimé en DTF, à l’avant comme au dos, plonge dans une atmosphère irrationnelle : une bouche expressive et des lettres à l’effigie de la marque capturent un état d’esprit oscillant entre joie et folie, à l’image d’un esprit sociopathe. Dark Mood Dimension incarne cette élégance sombre et cette profondeur émotionnelle, attirant les esprits créatifs, audacieux et légèrement skysophrènes. Caractéristiques principales : Impression DTF devant et derrière Zippé intégral avec capuche ajustable Manches longues, coupe moderne oversize Poches kangourou Unisexe Composition : 100 % coton Poids : 330 g/m² Entretien : Lavage à froid à l’envers, séchage à l’air libre. Pourquoi choisir Dark Mood Dimension ? Pour ceux qui aiment un style streetwear sombre et élégant, avec un sweat durable et confortable qui reflète personnalité et profondeur artistique. Comment le porter ? Avec un jean noir, un pantalon cargo ou un jogger gris, complété par des sneakers sobres pour un look urbain et stylé. Suis la team Dimension Tiktok | Facebook | Instagram | Youtube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/6-1-700x875.png",
+        "cutout": "/cutouts/1314-front.webp"
+      },
+      "back": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/5-1-700x875.png",
+        "cutout": "/cutouts/1314-back.webp"
+      },
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2025/12/2-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2025/12/54-1-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/63-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/53-1-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/59-1-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/56-1-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/61-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/60-1-700x875.png",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/65-700x875.png"
+      ]
+    },
+    {
+      "id": 1313,
+      "slug": "tee-shirt-oversize-guotic-statue",
+      "name": "Tee-shirt Oversize – Guotic Statue",
+      "permalink": "https://dimensionbte.com/produit/tee-shirt-oversize-guotic-statue/",
+      "kind": "tee",
+      "collection": "first-horizon",
+      "categories": [
+        "first-horizon",
+        "nouveautes",
+        "tee-shirt"
+      ],
+      "price": 169,
+      "regularPrice": 169,
+      "inStock": false,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "Tee-shirt Oversize – Guotic Statue de la marque Dimension est confectionné en 100 % coton épais de 220 g/m² , offrant confort et durabilité. Sa coupe oversize , ses manches larges et son col ras du cou côtelé lui confèrent une silhouette moderne et décontractée. Le grand logo central en velours reflète une allure sculpturale et une élégance intemporelle, faisant du Tee-shirt oversize GUOTIC Statue une pièce qui fusionne l’art classique et l’attitude urbaine. Caractéristiques principales : Impression DTF sur le devant Coupe oversize Col rond côtelé Manches larges Unisexe Composition : 100 % coton Poids : 220 g/m² Conseils d’entretien : Lavage à froid à l’envers, séchage à l’air libre pour préserver la qualité. Pourquoi choisir le Tee-shirt Oversize – Guotic Statue ? Le Tee-shirt Oversize – Guotic Statue n’est pas un simple vêtement : c’est une pièce identitaire qui incarne la rencontre entre streetwear et élégance. Son coton de haute qualité garantit confort et résistance, tandis que son impression conserve éclat et intensité au fil des lavages. Une pièce intemporelle et contemporaine qui traverse les saisons. Comment porter le Tee-shirt Oversize – Guotic Statue ? Le Tee-shirt Oversize – Guotic Statue s’adapte à tous les styles. Porte-le avec un pantalon cargo , un jean droit ou un short structuré pour un look urbain affirmé. Associe-le à des sneakers épurées pour un style minimaliste, ou à des baskets montantes pour une allure plus audacieuse. Ajoute un bob ou une casquette pour parfaire ton look streetwear. Suis la team Dimension Tiktok | Facebook | Instagram | Youtube | LinkedIn",
+      "front": {
+        "src": "https://dimensionbte.com/wp-content/uploads/2025/12/1-1_lwsoptimized-700x875.webp",
+        "cutout": "/cutouts/1313-front.webp"
+      },
+      "back": null,
+      "sizeChart": "https://dimensionbte.com/wp-content/uploads/2025/12/3-700x875.png",
+      "lifestyle": [
+        "https://dimensionbte.com/wp-content/uploads/2025/12/13-2_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/16-2_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/19-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/18-2_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/17-2_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/14-2_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/15-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/20-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/22-1_lwsoptimized-700x875.webp",
+        "https://dimensionbte.com/wp-content/uploads/2025/12/21-1_lwsoptimized-700x875.webp"
+      ]
+    }
+  ]
+}
