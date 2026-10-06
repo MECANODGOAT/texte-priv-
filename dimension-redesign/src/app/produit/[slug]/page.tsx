@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
-import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import BuyBox from "@/components/BuyBox";
+import CoverflowCarousel from "@/components/CoverflowCarousel";
 import ProductCard from "@/components/ProductCard";
 import Reveal from "@/components/Reveal";
 import Viewer360 from "@/components/Viewer360";
@@ -34,13 +34,13 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
         <div className="pdp-media">
           <Viewer360 front={p.front.cutout} back={p.back?.cutout} alt={p.name} priority />
           {p.lifestyle.length > 0 && (
-            <div className="pdp-gallery">
-              {p.lifestyle.slice(0, 4).map((src, i) => (
-                <Reveal key={src} delay={i * 0.06}>
-                  <figure><Image src={src} alt={`${p.name} porté, photo ${i + 1}`} fill sizes="(max-width: 900px) 45vw, 25vw" /></figure>
-                </Reveal>
-              ))}
-            </div>
+            <Reveal>
+              <CoverflowCarousel
+                label={`Photos portées de ${p.name}`}
+                items={p.lifestyle.map((src, i) => ({ id: src, image: src, alt: `${p.name} porté, photo ${i + 1}` }))}
+                rotation={38}
+              />
+            </Reveal>
           )}
         </div>
         <BuyBox p={p} />
